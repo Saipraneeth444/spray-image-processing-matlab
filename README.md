@@ -1,4 +1,4 @@
-# spray-image-processing-matlab
+# subsonic crossflow spray-image-processing-matlab with raw images
 
 MATLAB-based image processing and edge detection for experimental spray penetration analysis in supersonic crossflow studies.
 
